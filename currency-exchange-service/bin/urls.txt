@@ -1,0 +1,8 @@
+Currency Exchange Service
+http://localhost:8000/currency-exchange/from/USD/to/MMK
+
+Currency Conversion Service
+http://localhost:8100/currency-conversion/from/USD/to/MMK/quantity/10
+
+Eureka
+http://localhost:8761/
